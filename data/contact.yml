@@ -2,19 +2,15 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+content : 문의사항은 언제든지 고객센터로 연락주세요.
+mapLatitude : 35.204868
+mapLongitude: 129.070353
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-    
+    info : "부산시 동래구 충렬대로 1446-19"
+
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
-    
-  - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
-    
+    info : "Phone: +82-010-7714-2375"
+
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
-    
+    info : "Email: me_company@naver.com"
