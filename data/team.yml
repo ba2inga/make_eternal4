@@ -2,42 +2,34 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/author.jpg
+    name : 모집중
+    designation : 마켓팅 전문가
+    description :
     socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
-      
+
   - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : 김지욱_Kim Ji Wook
+    designation : CEO/Founder
+    description : 온라인 마켓팅 전문가, 비지니스 솔루션 전문가, 맞춤별 고객 상담 전문가.
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter
       - icon : tf-ion-social-linkedin
       - icon : tf-ion-social-dribbble-outline
-      
+
   - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : 최성우_Choi Sung Woo
+    designation : CFO
+    description : 오프라인 세일즈 전문가, 에스테틱 영업 전문가, 맞춤별 고객 상담 전문가.
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter
       - icon : tf-ion-social-linkedin
       - icon : tf-ion-social-dribbble-outline
-      
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+  - image : images/team/author.jpg
+    name : 모집중
+    designation : 세일즈 전문가
+    description :
     socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
