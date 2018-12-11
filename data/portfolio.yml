@@ -3,13 +3,13 @@ heading : Our
 headingSpan : Works
 filterList :
   - filterType : photography
-    filterTitle : Photography
-    
+    filterTitle : 닥터랩
+
   - filterType : design
-    filterTitle : Design
-    
+    filterTitle : 딸라스파
+
   - filterType : development
-    filterTitle : Development
+    filterTitle : 뷰티메드
 
 portfolioItem :
   - types : design
