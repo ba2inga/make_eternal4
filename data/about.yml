@@ -1,15 +1,15 @@
 enable : true
-heading : About
-headingSpan : Us
-aboutItem : 
+heading : Make
+headingSpan : Eternal
+aboutItem :
 - icon : tf-tools
-  title : We're Creative
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title :  우리는 피부 전문가 입니다
+  content : 메이크이터널은 업계 최고의 피부 전문가와 함께 고객의 피부를 개선시킵니다.
 
 - icon : tf-strategy
-  title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : 맞춤형 솔루션을 제공합니다
+  content : 고객의 피부 타입별로 맞춤형 솔루션을 제공하여 확실한 효과를 보장합니다.
 
 - icon : tf-anchor2
-  title : We're Genius
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : 훌륭한 원장님과 함께합니다
+  content : 풍부한 피부 노하우를 보유한 최고의 원장님들과 우리는 함께합니다.
