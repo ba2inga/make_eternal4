@@ -82,8 +82,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "Make_Eternal"
+        copyrightURL = "http://www.make-eternal.shop"
 
         # social Icons
         [[params.footer.socialIcon]]
