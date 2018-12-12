@@ -74,3 +74,17 @@ portfolioItem :
     URL : #
     title : Tag Design
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
+  - types : design photography
+    image : images/portfolio/portfolio-3.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Tag Design
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
+  - types : design photography
+    image : images/portfolio/portfolio-4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Tag Design
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
