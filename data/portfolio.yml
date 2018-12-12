@@ -1,6 +1,6 @@
 enable : true
 heading : Our
-headingSpan : Works
+headingSpan : Products
 filterList :
   - filterType : photography
     filterTitle : 닥터랩
