@@ -32,7 +32,7 @@ theme = "meghna-hugo"
 
     [[menu.nav]]
     name = "블로그"
-    URL = "https://make-eternal-blog.netlify.com/blog/"
+    URL = "blog"
     weight = 7
 
     [[menu.nav]]
