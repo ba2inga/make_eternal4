@@ -89,8 +89,8 @@ custom_css = ["css/custom.css"]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
-
-    # footer
+    
+     # footer
     [params.footer]
         copyright = "Make_Eternal"
         copyrightURL = "http://www.make-eternal.shop"
