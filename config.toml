@@ -89,7 +89,10 @@ custom_css = ["css/custom.css"]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
-
+    
+    # for Disqus
+    disqus_shortname: jikimicool
+    
     # footer
     [params.footer]
         copyright = "Make_Eternal"
