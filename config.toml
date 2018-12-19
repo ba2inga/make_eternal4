@@ -1,7 +1,7 @@
 baseURL = "https://make-eternal.shop"
 languageCode = "en-us"
 title = "Make Eternal"
-theme = "meghna-hugo"
+theme = "hello0"
 
 # Menu
 [menu]
