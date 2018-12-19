@@ -14,5 +14,6 @@ contactDetails :
 
   - icon : tf-ion-ios-email-outline
     info : "Email: me_company@naver.com"
-  # for Disqus
-disqus_shortname: jikimicool
+ 
+ # for Disqus
+  disqus_shortname: jikimicool
