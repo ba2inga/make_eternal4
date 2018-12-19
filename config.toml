@@ -57,9 +57,7 @@ custom_css = ["css/custom.css"]
     btn = true
     btnText="둘러보기"
     btnURL="#about"
- 
-    disqusShortname = "jikimicool"
-    
+  
     # call to action
     [params.cta]
     enable = true
@@ -67,6 +65,8 @@ custom_css = ["css/custom.css"]
     content = "에스테틱 비지니스의 새로운 플랫폼 - 워드프레스, 휴고, Linkein, Instagram, Wechat"
     btnURL = "#blog"
     btnText = "더 알아보기"
+
+    disqusShortname = "jikimicool"
 
      # counter
     [params.counter]
