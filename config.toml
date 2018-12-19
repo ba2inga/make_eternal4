@@ -66,6 +66,8 @@ custom_css = ["css/custom.css"]
     btnURL = "#blog"
     btnText = "더 알아보기"
 
+    disqus_shortname: "jikimicool"
+
     # counter
     [params.counter]
     enable = true
