@@ -57,7 +57,9 @@ custom_css = ["css/custom.css"]
     btn = true
     btnText="둘러보기"
     btnURL="#about"
-
+ 
+    disqusShortname = "jikimicool"
+    
     # call to action
     [params.cta]
     enable = true
@@ -66,7 +68,7 @@ custom_css = ["css/custom.css"]
     btnURL = "#blog"
     btnText = "더 알아보기"
 
-    # counter
+     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
