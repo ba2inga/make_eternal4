@@ -57,7 +57,9 @@ custom_css = ["css/custom.css"]
     btn = true
     btnText="둘러보기"
     btnURL="#about"
-
+ 
+    disqusShortname = "jikimicool"
+    
     # call to action
     [params.cta]
     enable = true
