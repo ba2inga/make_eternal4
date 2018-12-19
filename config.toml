@@ -6,7 +6,7 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "메이크 이터널"
+    name = "메이크이터널"
     URL = "about"
     weight = 2
     
