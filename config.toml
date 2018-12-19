@@ -9,12 +9,12 @@ theme = "hello0"
     name = "메이크 이터널"
     URL = "about"
     weight = 2
-    
+
     [[menu.nav]]
-    name = "Service"
+    name = "게시판"
     URL = "services"
     weight = 3
-    
+
     [[menu.nav]]
     name = "판매제품"
     URL = "portfolio"
@@ -24,7 +24,7 @@ theme = "hello0"
     name = "구성원"
     URL = "our-team"
     weight = 5
-    
+
     [[menu.nav]]
     name = "Pricing"
     URL = "pricing"
@@ -57,7 +57,7 @@ custom_css = ["css/custom.css"]
     btn = true
     btnText="둘러보기"
     btnURL="#about"
-  
+
     # call to action
     [params.cta]
     enable = true
@@ -89,7 +89,7 @@ custom_css = ["css/custom.css"]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
-    
+
      # footer
     [params.footer]
         copyright = "Make_Eternal"
